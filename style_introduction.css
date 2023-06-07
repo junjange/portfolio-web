@@ -91,6 +91,14 @@ footer i:hover {
   transform: translate(0, -3px);
 }
 
+/* stacks part */
+
+.stacks-name {
+  font-size: 30px;
+  font-weight: 900;
+  font-family: 'Oswald', sans-serif;
+}
+
 
 /* EXPERIENCE part */
 
